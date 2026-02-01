@@ -1,0 +1,8 @@
+flask
+flask-cors
+python-dotenv
+langchain
+langchain-community
+langchain-anthropic
+langgraph
+requests
